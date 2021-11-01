@@ -17,6 +17,12 @@
       "day": "Dec 3rd 8",
       "reminder": true,
       "id": 3
+    },
+    {
+      "text": "Online Shopping",
+      "day": "Mon 6th 6:08pm",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
