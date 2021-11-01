@@ -1,7 +1,6 @@
 {
   "name": "react-task-tracker",
   "homepage": "https://micbush.github.io/tasktrackerapp/",
-  "about": "https://micbush.github.io/tasktrackerapp/about",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
